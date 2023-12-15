@@ -1,0 +1,14 @@
+body {
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    font-size: larger;
+    font-family: 'DM Serif Display', serif;
+    text-align: center;
+
+}
+.btn-warning {
+    height: 50px;
+    width: 500px;
+    border-radius: 20px;
+}
